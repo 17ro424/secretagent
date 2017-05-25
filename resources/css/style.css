@@ -1,0 +1,24 @@
+html {
+  font-size: 18px;
+  font-family: Helvetica;
+  min-width: 960px;
+}
+nav {
+  color: white;
+  background-color: firebrick;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.banner {
+  background-image: url(../images/moto.jpeg);
+  background-size: cover;
+  height: 25rem;
+
+}
+.logo {
+background-color: black;
+color: white;
+}
+.logo img {
+  height: 1.5rem;
+}
